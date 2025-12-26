@@ -1,4 +1,7 @@
-# SubHunter
+<h1>
+  <img src="icon.png" height="55" align="center">
+  SubHunter
+</h1>
 
 SubHunter is a **subdomain enumeration and HTTP classification** tool designed for
 reconnaissance and bug bounty workflows. It integrates multiple passive sources and
@@ -61,7 +64,7 @@ Make sure `$HOME/go/bin` is included in your `$PATH`.
 ## Usage
 
 ```bash
-python3 subhunter.py example.com
+python3 SubHunter.py example.com
 ```
 
 ---
